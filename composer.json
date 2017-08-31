@@ -20,9 +20,15 @@
       "role": "Developer"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/debiprasad/flysystem-backblaze"
+    },
+  ],
   "require": {
     "php": ">=5.5.0",
-    "mhetreramesh/flysystem-backblaze": "*"
+    "mhetreramesh/flysystem-backblaze": "dev-feature/get-url"
   },
   "autoload": {
     "psr-4": {

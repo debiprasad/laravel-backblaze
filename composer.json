@@ -28,7 +28,7 @@
   ],
   "require": {
     "php": ">=5.5.0",
-    "mhetreramesh/flysystem-backblaze": "dev-feature-get-url"
+    "mhetreramesh/flysystem-backblaze": "dev-geturl"
   },
   "autoload": {
     "psr-4": {
